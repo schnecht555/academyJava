@@ -1,10 +1,11 @@
-Breaks
-Windshield-wiper
+Fluids levels
+Brakes
 Tires
-Exhaust
-Oilchange
-Air-filter
-Suspension
-Horn
-Light
-Navigation
+Battery and electrical system
+Belts and hoses
+Suspension and steering
+Exhaust system
+Transmission
+Engine diagnostics
+Lights and indicators
+Brought to you by TÜV SÜD
